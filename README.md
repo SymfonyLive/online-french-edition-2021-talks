@@ -112,7 +112,7 @@ Dans le cadre de l'initiative Symfony UX, j'ai créé une intégration officiell
 Au cours de cette conférence, nous découvrirons comment la bibliothèque fonctionne, comment l'utiliser pour améliorer vos templates Twig existants, comment "streamer" en temps réel des changements d'états grâce à l'intégration avec Mercure et comment tester tout ça avec Symfony Panther.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/pedal-to-the-metal-introducing-symfony-turbo)  
 ~~Video~~  
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
