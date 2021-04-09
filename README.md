@@ -36,7 +36,7 @@ Durant ce talk, nous aborderons certaines de ces solutions et nous pencherons su
 Nous pourrons aussi constater qu'API Platform continue à améliorer ce processus de sérialisation avec notamment quelques fonctionnalités très intéressantes sorties dans sa version 2.6</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/mathiasarlaud/a-suitable-serialization-with-api-platform-and-symfony)  
 ~~Video~~
 
 By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)  
