@@ -92,7 +92,7 @@ Nous avons créé async-aws pour fournir un SDK alternatif qui comble ces lacune
 Lors de ce talk, je vais vous montrer comment nous utilisons le client HTTP de Symfony et comment nous tirons parti de son comportement "asynchrone par défaut" pour améliorer la DX et permettre à l'utilisateur de passer du mode séquentiel au mode asynchrone complet sans effort ni douleur.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/jderusse/async-aws)  
 ~~Video~~
 
 By [Jérémy Derussé](https://connect.symfony.com/profile/jderusse)  
