@@ -146,7 +146,7 @@ By [Laurent Voullemier](https://connect.symfony.com/profile/lvo)
   <dd>Les identifiants, qu'ils soient techniques ou fonctionnels, sont essentiels car ils permettent d'immatriculer les différentes ressources que nous manipulons au sein de nos projets. Ils peuvent être représentés sous différentes formes : nombres entiers, chaînes de caractères, UUID, etc. Quel est le format le plus compréhensible ? Quel est le plus performant ? Au cours de cette conférence, je vous propose d'échanger sur ce thème passionnant, notamment en (re)découvrant le composant Symfony UID. À travers un retour d'expérience, j'aborderai également le sujet de la rétrocompatibilité dans le cadre de la migration d'identifiants existants.</dd>
 </dl>
 
-~~Slides~~   
+[Slides](https://speakerdeck.com/fancyweb/de-meilleurs-identifiants-grace-au-composant-symfony-uid)   
 ~~Video~~
 
 By [Thomas Calvet](https://connect.symfony.com/profile/fancyweb)  
