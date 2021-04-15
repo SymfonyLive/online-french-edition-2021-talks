@@ -187,7 +187,7 @@ De par son adoption rapide, Cypress peut être amené à croiser des difficulté
 Nous verrons aussi comment l'intégrer dans une application Symfony et comment le rendre facile à prendre en main, évolutif et facile à maintenir.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/guikingone/cypress-le-e2e-moderne-doit-encore-apprendre-du-passe)  
 ~~Video~~
 
 By [Guillaume Loulier](https://connect.symfony.com/profile/guikingone)  
